@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1677802241 source:c:\users\marcos\documents\codeblocks projects\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TreeBin.h"
+
+1677456470 c:\users\marcos\documents\codeblocks projects\ex1\treebin.h
+
+1677801983 source:c:\users\marcos\documents\codeblocks projects\ex1\treebin.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeBin.h"
+
+1678149528 source:c:\users\marcos\documents\codeblocks projects\arvores de busca binaria\ex1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"TreeBin.h"
+
+1678149230 c:\users\marcos\documents\codeblocks projects\arvores de busca binaria\ex1\treebin.h
+
+1677948177 source:c:\users\marcos\documents\codeblocks projects\arvores de busca binaria\ex1\treebin.c
+	<stdio.h>
+	<stdlib.h>
+	"TreeBin.h"
+
